@@ -1,1 +1,1 @@
-# Diplomado-Finanzas-bot
+# trading_quant_system
